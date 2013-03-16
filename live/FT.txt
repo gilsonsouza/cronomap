@@ -1,0 +1,25 @@
+2|Valmir Benavides|SP|Scuderia Iveco|I|Benavides|      |-|-|-|-|-
+3|Christian Fittipaldi|SP|ABF Desenvolvimentos|M|Fittipaldi|      |-|-|-|-|-
+4|Felipe Giaffone|SP|RM Competições|W|Giaffone|      |-|-|-|-|-
+6|Wellington Cirino|PR|ABF Desenvolvimentos|M|Cirino|      |-|-|-|-|-
+7|Debora Rodrigues|SP|RM Competições|W|Debora|      |-|-|-|-|-
+8|Adalberto Jardim|SP|A.Jardim|W|Jardim|      |-|-|-|-|-
+9|Renato Martins|SP|RM Competições|W|Martins|      |-|-|-|-|-
+11|Diumar Bueno|PR|ABF Volvo|V|Bueno|      |-|-|-|-|-
+12|Zé Maria Reis|GO|Original Peças Competições|S|ZReis|      |-|-|-|-|-
+14|João Maistro|PR|Clay Truck Racing|V|Maistro|      |-|-|-|-|-
+15|Roberval Andrade|SP|RVR Motorsport|S|Andrade|      |-|-|-|-|-
+20|Pedro Muffato|PR|Muffatão Racing|S|Muffato|      |-|-|-|-|-
+32|Luiz Pucci|RA|ABF Volvo|V|Pucci|      |-|-|-|-|-
+43|Pedro Gomes|SP|DF Motorsport|F|Gomes|      |-|-|-|-|-
+50|Fred Marinelli|PR|Marinelli Competições|I|Marinelli|      |-|-|-|-|-
+51|Leandro Reis|GO|Original Peças Competições|S|LReis|      |-|-|-|-|-
+55|Paulo Salustiano|SP|ABF Racing Team|V|Salustiano|      |-|-|-|-|-
+70|Danilo Dirani|SP|DF Motorsport|F|Dirani|      |-|-|-|-|-
+73|Leandro Totti|PR|ABF Racing Team|M|Totti|      |-|-|-|-|-
+77|André Marques|SP|RM Competições|W|Marques|      |-|-|-|-|-
+83|Regis Boessio|SP|ABF Racing Team|M|Boessio|      |-|-|-|-|-
+88|Beto Monteiro|PE|Scuderia Iveco|I|Monteiro|      |-|-|-|-|-
+99|Luiz Lopes|SP|ABF Racing Team|M|Lopes|      |-|-|-|-|-
+100|Vignaldo Fizio|SP|ABF Racing Team|M|Fizio|      |-|-|-|-|-
+103|Geraldo Piquet|DF|ABF Desenvolvimentos|M|Piquet|      |-|-|-|-|-

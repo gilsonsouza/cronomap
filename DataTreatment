@@ -1,0 +1,13 @@
+frame = '<00004#1|16|HAN KOD|GT3|26|1:48.902|_|1:56.056|142,8|Marcelo Hahn/Alam Khodair|0|_>'
+
+frameId = frame.split("#").first
+restFrame = frame.split("#").last
+*dataToInsert = restFrame.split("|")
+sizeArray = dataToInsert.size
+puts dataToInsert.size
+puts frameId
+puts restFrame
+if frameId == "<00004"
+  query = "INSERT INTO `cronomap`.`prova_tomada` (`POSICAO`, `NUMERO`, `NOME`, `CATEGORIA`, `TOTALVOLTAS`, `DIFERENCA`, `DIFERENCA2`, `MELHOR`, `VOLTAMELHOR`, `ULTIMA`, `VELOCIDADE`, `ABREVIADO`, `BOX`, `TEMPOBOX`, `CORRIDATOMADA`) VALUES ('#{dataToInsert[0]}', '#{dataToInsert[1]}', '#{dataToInsert[2]}', '#{dataToInsert[3]}', '#{dataToInsert[4]}', '#{dataToInsert[5]}', '#{dataToInsert[6]}', '#{dataToInsert[7]}', '#{dataToInsert[8]}', '#{dataToInsert[9]}', '#{dataToInsert[10]}', '#{dataToInsert[11]}', null, null, 'C');"
+  puts query
+end
